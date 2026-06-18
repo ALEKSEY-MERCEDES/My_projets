@@ -1,1 +1,1 @@
-
+Если хотите запустить ячейки — распакуйте приложенный датасет, откройте [Google Colab](https://colab.research.google.com/) или [Kaggle Notebooks](https://www.kaggle.com/code), загрузите ноутбук и добавьте файлы датасета в раздел файлов
